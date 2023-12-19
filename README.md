@@ -1,0 +1,5 @@
+Objectives: Create and store values in a 2D dynamic array, Deallocate a 2D dynamic array, Resize a 2D dynamic array, Avoid memory leaks, Use pass by reference
+
+You have just been hired by Foobar Games as a game logic programmer. The company is working on a retro dungeon crawler, which is a type of game where you control a character who is navigating a fantasy dungeon environment.
+You are in charge of implementing and testing part of the core game logic. The art and design teams are still working on graphics and sound, so you are working on a text-based prototype for developing and debugging your logic code.
+In this assignment, you will implement the code that reads an in-game map (or “dungeon”) from a file into a dynamic 2D array. You must also implement updating the map as the player moves the character through the dungeon. The player’s goal is to pick up the treasure and go to the level’s exit. Additionally, you will need to implement magic amulets that resize the dungeon size as well as implement the logic for the monsters that chase the player.
